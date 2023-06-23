@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"LEADS_TYPE";"-01";"";
+"REFERENCE";"IPT1-112-01-H-D-RA";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"Samtec";"";
+"NUMBER_OF_POSITIONS";"12";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"33-16102020-098904";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";".100'' Mini Mate® Isolated Power Connector Terminal Strip, IPT1-112-01-H-D-RA";"";
+"TraceParts.InstanceId";"33-16102020-0989049FRTDWBW7JRXRZ67RE2S0QVZB";"";
+"TraceParts.PartTitle";"IPT1 - .100"" Mini Mate® Isolated Power Connector Terminal Strip";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SAMTEC:33-16102020-098904";"";
+"SERIES";"IPT1";"";
